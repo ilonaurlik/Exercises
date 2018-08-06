@@ -1,3 +1,6 @@
+/**
+ * Write the text backwards.
+ */
 public class Exercise02 {
 	private String expression;
 

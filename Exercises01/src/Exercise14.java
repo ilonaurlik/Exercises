@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Write the prime numbers in the range [A, B).
+ */
 public class Exercise14 {
 	private int firstNumber;
 	private int secondNumber;

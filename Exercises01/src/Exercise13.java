@@ -1,3 +1,6 @@
+/**
+ * Convert given number to array in following way: 2018 -> [2,0,1,8].
+ */
 public class Exercise13 {
 	private int number;
 

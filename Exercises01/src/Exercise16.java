@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Write 25 upcoming leap years.
+ */
 public class Exercise16 {
 	private int year;
 

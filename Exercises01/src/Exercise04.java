@@ -1,3 +1,6 @@
+/** 
+ * Write the sum of numbers from 1 to n.
+ */
 public class Exercise04 {
 	private long number;
 

@@ -1,3 +1,7 @@
+/** 
+ * Write the product of numbers in the range [A, B]. 
+ * Clarification: if B <A is from B to A, otherwise from A to B.
+ */
 public class Exercise17 {
 	private int firstNumber;
 	private int secondNumber;

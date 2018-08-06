@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/**
+ * Merge and sort descending two lists.
+ */
 public class Exercise12 {
 	private List<Integer> numbers = new ArrayList<>();
 	private List<Integer> numbers2 = new ArrayList<>();

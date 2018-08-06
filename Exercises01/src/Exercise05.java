@@ -1,3 +1,6 @@
+/** 
+ * Change the first letter of each word to a capital one.
+ */
 public class Exercise05 {
 	private String expression;
 

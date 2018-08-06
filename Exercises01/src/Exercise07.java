@@ -2,6 +2,9 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Implement the algorithm: https://en.wikipedia.org/wiki/6174_(number).
+ */
 public class Exercise07 {
 	private int number;
 	

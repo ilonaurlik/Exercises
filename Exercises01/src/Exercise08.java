@@ -6,6 +6,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * Check which consontant occurs most often in the text.
+ */
 public class Exercise08 {
 	private String expression;
 

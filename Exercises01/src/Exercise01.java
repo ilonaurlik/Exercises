@@ -1,3 +1,8 @@
+/**
+ * Find the longest word in the text,
+ * - if it occurs more than once, take the first one
+ * - ignore the punctuation
+ */
 public class Exercise01 {
 	private String expression;
 

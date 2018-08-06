@@ -1,3 +1,8 @@
+/**
+ * Change the text to one, in which every letter is replaced by the next one in the alphabet (corner case: z->a). 
+ * - change all vowels to capital letters.
+ * - ignore the punctuation, numbers and whitespaces.
+ */
 public class Exercise03 {
 	private String expression;
 	private static final String ALPHABET = "abcdefghijklmnoprstuwyz"; 

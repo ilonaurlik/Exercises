@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Return the sum of elements on the odd indexes in the list.
+ */
 public class Exercise11 {
 	private List<Integer> numbers = new ArrayList<>();
     
